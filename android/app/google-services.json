@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "453139369169",
+    "project_id": "alarmando-b5472",
+    "storage_bucket": "alarmando-b5472.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453139369169:android:e1f2f5031b3c8b46cf09f0",
+        "android_client_info": {
+          "package_name": "com.example.alarmando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453139369169-k7j2g1ekcqrs6266gh1ghk21v0gqc2bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdIDLXU5z1VYw6hrGUx1f-j4OrbgqMQ-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453139369169-k7j2g1ekcqrs6266gh1ghk21v0gqc2bb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453139369169-cn9ovc3cgj856ouegql4in5998o2762l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.alarmando"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
